@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{0C1154D8-C1E0-33F8-4B0F-A4A59E0DE8B1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MusicSpectrum.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MusicSpectrum.cs" Line="26" Column="60" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3513a5b8-111c-4f16-931c-44edd9ce0d41" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
