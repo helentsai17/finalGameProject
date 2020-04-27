@@ -63,7 +63,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\MouseScript.cs" />
     <Compile Include="Assets\Scripts\MusicSpectrum.cs" />
+    <Compile Include="Assets\Scripts\PlayerControler.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/helentsai/Desktop/Game programming/Final Project Collecter/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>

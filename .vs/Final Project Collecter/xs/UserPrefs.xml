@@ -1,12 +1,12 @@
 ﻿<Properties StartupConfiguration="{0C1154D8-C1E0-33F8-4B0F-A4A59E0DE8B1}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MusicSpectrum.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MouseScript.cs">
     <Files>
-      <File FileName="Assets/Scripts/MusicSpectrum.cs" Line="26" Column="60" />
+      <File FileName="Assets/Scripts/MouseScript.cs" Line="5" Column="25" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3513a5b8-111c-4f16-931c-44edd9ce0d41" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="03c74981-2c89-4dd3-ac1a-f6515df4e9cf" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
